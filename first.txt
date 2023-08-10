@@ -1,3 +1,6 @@
 first branch - line 1
-third branch - 3rd line
+third branch - 3rd line (this came from 2nd_merge_branch and should have been eliminated, only for demo purposes left during conflict resolution)
 third branch - 4th line -> I want to keep updating things
+third branch - 3rd line (this introduced a merge conflict)
+second branch - 2nd line
+
