@@ -1,2 +1,4 @@
 first branch - line 1
+third branch - 3rd line
+third branch - 4th line -> I want to keep updating things
 second branch - 2nd line
